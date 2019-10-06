@@ -1,0 +1,25 @@
+.app-header{
+    background: #ffffff;
+    padding: 15px;
+    box-shadow: 1px 1px 1px 1px #008000;
+
+}
+.app-footer{
+    width: 100%;
+    text-align: center;
+    background-color:rgb(46, 48, 52);
+    height: 40px;
+}
+
+.logo{
+    height:38px; 
+    background: #ffffff;
+}
+
+.footer-text{
+    color: aliceblue;
+}
+
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
